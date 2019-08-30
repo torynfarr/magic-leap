@@ -1,0 +1,46 @@
+[
+ {
+  "dest": "bin/libc++_shared.so",
+  "src": "C:/Users/toryn/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so"
+ },
+ {
+  "dest": "bin/libil2cpp.so",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Native/libil2cpp.so"
+ },
+ {
+  "dest": "bin/AudioPluginMSASpatializer.so",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so"
+ },
+ {
+  "dest": "bin/LuminMediaPlayer.dll",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+ },
+ {
+  "dest": "bin/LuminUnity.dll",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+ },
+ {
+  "dest": "bin/MSA.Runtime.dll",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+ },
+ {
+  "dest": "bin/UnityMagicLeap.so",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so"
+ },
+ {
+  "dest": "bin/libml_camera_plugin.so",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so"
+ },
+ {
+  "dest": "bin/libml_mediaplayer_plugin.so",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so"
+ },
+ {
+  "dest": "bin/nunit.framework.dll",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+ },
+ {
+  "dest": "bin/Player.elf",
+  "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Player.elf"
+ }
+]

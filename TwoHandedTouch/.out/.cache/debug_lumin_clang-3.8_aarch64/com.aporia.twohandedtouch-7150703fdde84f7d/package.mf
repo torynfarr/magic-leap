@@ -1,0 +1,297 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/toryn/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "e2adf17a24fc6009e033a38d6c166dedca3b8e46",
+   "xfrm_path": "C:/Users/toryn/TwoHandedTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/com.aporia.twohandedtouch-7150703fdde84f7d\\libc++_shared.so-f7149828ae6fb2ea",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "d88044ba979a9fe7a265997c43eab85123635e33",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3164424,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "8806b54af6127a08b1a8e05513656bc7ce673066",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 48085336,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4b35440625b4fa68de2a36ee7600f8925a7f5444",
+   "xfrm_path": "C:/Users/toryn/TwoHandedTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/com.aporia.twohandedtouch-7150703fdde84f7d\\libil2cpp.so-098658d80ffb48c7",
+   "xfrm_size": 48086094
+  },
+  {
+   "compression": 8,
+   "hash": "fa2b8ff146caf64688e7aa835af0034ca81b5505",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 282448,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a4c0d9fad5cdb77551be268f428976c88b1869bf",
+   "xfrm_path": "C:/Users/toryn/TwoHandedTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/com.aporia.twohandedtouch-7150703fdde84f7d\\AudioPluginMSASpatializer.so-dff00996559453a0",
+   "xfrm_size": 283206
+  },
+  {
+   "compression": 8,
+   "hash": "bb2019aa860ee71df5a09e859745090f0193bf29",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "6ad9bb807d218548e4eb3b375bec2c1bace5bfe7",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 329216,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "b8ce049d2e85f27cc7346d7551d1853b20e78461",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22016,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "76344976d459e1800ec9781d580649aa89cbe779",
+   "xfrm_path": "C:/Users/toryn/TwoHandedTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/com.aporia.twohandedtouch-7150703fdde84f7d\\UnityMagicLeap.so-dff00996559453a0",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "fbfa4a6aa20b14e0f60550676e5d34bebb99d46d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4a3a8b9a0356cf4aabab6abc4799119e6f53cdcc",
+   "xfrm_path": "C:/Users/toryn/TwoHandedTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/com.aporia.twohandedtouch-7150703fdde84f7d\\libml_camera_plugin.so-dff00996559453a0",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "88ac1047e0ac5686d703471c3115f719ca66a4e8",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "98889b44dddc08c24cb66e86225e11a9b687da07",
+   "xfrm_path": "C:/Users/toryn/TwoHandedTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/com.aporia.twohandedtouch-7150703fdde84f7d\\libml_mediaplayer_plugin.so-dff00996559453a0",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "88bb7afbcf63275d0962b4c7c7cede30a1b0d014",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 770468,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "f226dfc0f1097b18c77eb2198b6257be5b02a613",
+   "pkgpath": "Data/boot.config",
+   "size": 123,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "36c582d14f2e704c3a3219ce035564074f92d71b",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 60168,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "ebfad806b3fce96ff2abb1bddb622c207b3476c9",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 84404,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1cb2e6e7b314da82814c36bf9a09b505b915342e",
+   "pkgpath": "Data/level0",
+   "size": 7860,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "d77f8f429538b0447fbd80575d586bd3b7f59a66",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "a84070916311d1b0ae5cd6ea9fab880d9151c5bb",
+   "pkgpath": "Data/resources.assets",
+   "size": 551248,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6cdc0e4cbe1201c4ca6f1a16e833814ac2bbc3a8",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "a0f17515fdb610fad610535d44c3cb730e110181",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 300860,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "61d3d50aa3472ee134e4c14f0f43bcbdc0215e33",
+   "pkgpath": "bin/Player.elf",
+   "size": 20710840,
+   "src": "C:/Users/toryn/TwoHandedTouch/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "2804b3672467eea1cddfbaae3392cd21d6253fe7",
+   "xfrm_path": "C:/Users/toryn/TwoHandedTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/com.aporia.twohandedtouch-7150703fdde84f7d\\Player.elf-dbbe04f2df145732",
+   "xfrm_size": 20711598
+  },
+  {
+   "compression": 8,
+   "hash": "bf74b5e9d984b4b0d52d011fec7d12edbf392004",
+   "pkgpath": "manifest.xml",
+   "size": 692,
+   "src": "C:\\Users\\toryn\\TwoHandedTouch\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "ea590751f21d4c1515641849c91b7b9cee039fd0",
+     "developer_id": "359434e1-f8a7-4b50-a4b6-38143255c024"
+    }
+   },
+   "xfrm_hash": "d1303cd2a348f9f06721741120c761685fba197e",
+   "xfrm_path": "C:/Users/toryn/TwoHandedTouch/.out/.cache/debug_lumin_clang-3.8_aarch64/com.aporia.twohandedtouch-7150703fdde84f7d\\manifest.xml-dbbe04f2df145732",
+   "xfrm_size": 704
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
