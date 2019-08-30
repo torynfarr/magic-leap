@@ -1,7 +1,7 @@
 # Magic Leap
 This repository contains various sample Unity projects designed for the Magic Leap One spatial computing device.
 
-## [Two Handed Touch](https://github.com/torynfarr/magic-leap/TwoHandedTouch) 
+## [Two Handed Touch](https://github.com/torynfarr/magic-leap/tree/master/TwoHandedTouch) 
 This sample uses hand tracking and demonstrates how to detect when the keypoint on the tip of your index finger on either hand touches a game object. 
 
 - When a game object has been touched, the color will change to cyan.
