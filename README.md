@@ -12,7 +12,7 @@ This sample uses hand tracking and demonstrates how to detect when the keypoint 
 
 - Hand Meshing is included to facilitate occlusion. It's optional and not used to detect when an object has been touched.
 
-<img src="https://github.com/torynfarr/magic-leap/images/twohandedtouch.gif" width="350">
+<img src="https://github.com/torynfarr/magic-leap/docs/images/twohandedtouch.gif" width="350">
 
 ### Additional Information
 - This sample was created using Unity version 2019.2.2f1
