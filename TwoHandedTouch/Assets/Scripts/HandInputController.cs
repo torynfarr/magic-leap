@@ -193,7 +193,7 @@ public class HandInputController : MonoBehaviour
     }
 
     /// <summary>
-    /// Checks to see if the given touch is still valid (i.e. the hand specified in the touch is still touching the shape specified in the touch).
+    /// Changes the material color applied to the specified shape.
     /// </summary>
     /// <param name="shape">The game object who's color should be changed.</param>
     /// <param name="color">The color to change the material color on the game object to.</param>
