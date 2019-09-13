@@ -2,7 +2,9 @@
 This repository contains various sample Unity projects designed for the Magic Leap One spatial computing device.
 <br />
 <br />
-## 01.[Two Handed Touch](https://github.com/torynfarr/magic-leap/tree/master/Samples/01.two-handed-touch) 
+
+## 01.[Two Handed Touch](https://github.com/torynfarr/magic-leap/tree/master/Samples/01.two-handed-touch)
+
 This sample uses hand tracking and demonstrates how to detect when the keypoint on the tip of your index finger on either hand touches a game object. 
 
 - When a game object has been touched, the color will change to cyan.
@@ -16,7 +18,9 @@ This sample uses hand tracking and demonstrates how to detect when the keypoint 
 <img src="https://github.com/torynfarr/magic-leap/blob/master/docs/images/twohandedtouch.gif" width="350">
 <br />
 <br />
-## 02.[Pinch and Drag](https://github.com/torynfarr/magic-leap/tree/master/Samples/02.pinch-and-drag) 
+
+## 02.[Pinch and Drag](https://github.com/torynfarr/magic-leap/tree/master/Samples/02.pinch-and-drag)
+ 
 This sample uses hand tracking and demonstrates one approach to picking up a game object and moving it around by holding / pinching it between the tips of your index finger and thumb on either hand.
 
 - When the tips of your index finger and thumb are both touching the same sphere for a set duration of time (half a second) and your hand is in the C, pinch, or OK keypose, the sphere will be picked up.
