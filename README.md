@@ -14,6 +14,7 @@ This sample uses hand tracking and demonstrates how to detect when the keypoint 
 
 - Hand Meshing is included to facilitate occlusion. It's optional and not used to detect when an object has been touched.
 
+
 <img src="https://github.com/torynfarr/magic-leap/blob/master/docs/images/pinchanddrag.gif" width="350">
 
 ## 02.[Pinch and Drag](https://github.com/torynfarr/magic-leap/tree/master/Samples/02.pinch-and-drag) 
