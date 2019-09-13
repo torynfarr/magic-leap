@@ -1,0 +1,297 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "2b8aaf881d77556d5a10c64d7ab195458e9ada17",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3382556,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "4bd2467b60571e97e5bf45ec75b57c529d19eb2a",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 54598512,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "731d79d0d84298ed7d3b98f11e843c5afa5295e1",
+   "xfrm_path": "C:/Users/toryn/Downloads/magic-leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.torynfarr.magicleap-efb8980e95c57cb9\\libil2cpp.so-991f5a189a0fc227",
+   "xfrm_size": 54599270
+  },
+  {
+   "compression": 8,
+   "hash": "fa2b8ff146caf64688e7aa835af0034ca81b5505",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 282448,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a4c0d9fad5cdb77551be268f428976c88b1869bf",
+   "xfrm_path": "C:/Users/toryn/Downloads/magic-leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.torynfarr.magicleap-efb8980e95c57cb9\\AudioPluginMSASpatializer.so-56f5f51228e30e9e",
+   "xfrm_size": 283206
+  },
+  {
+   "compression": 8,
+   "hash": "581060ca633f28457f2468a50665820dba3b35e4",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "7be5832e9b39b972852cda22d9299093f60d1607",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 329216,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "b8ce049d2e85f27cc7346d7551d1853b20e78461",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22016,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "76344976d459e1800ec9781d580649aa89cbe779",
+   "xfrm_path": "C:/Users/toryn/Downloads/magic-leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.torynfarr.magicleap-efb8980e95c57cb9\\UnityMagicLeap.so-56f5f51228e30e9e",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "fbfa4a6aa20b14e0f60550676e5d34bebb99d46d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4a3a8b9a0356cf4aabab6abc4799119e6f53cdcc",
+   "xfrm_path": "C:/Users/toryn/Downloads/magic-leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.torynfarr.magicleap-efb8980e95c57cb9\\libml_camera_plugin.so-56f5f51228e30e9e",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "88ac1047e0ac5686d703471c3115f719ca66a4e8",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "98889b44dddc08c24cb66e86225e11a9b687da07",
+   "xfrm_path": "C:/Users/toryn/Downloads/magic-leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.torynfarr.magicleap-efb8980e95c57cb9\\libml_mediaplayer_plugin.so-56f5f51228e30e9e",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "20234f006e372174b60bec923be62d511231f8f2",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 942768,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "f226dfc0f1097b18c77eb2198b6257be5b02a613",
+   "pkgpath": "Data/boot.config",
+   "size": 123,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "7c6c5079bb592c336e103876abf3a047725a0474",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 60256,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "d3fab74028febd6129568994190fbb53817cf4d3",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 84476,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "6b718e8513fb9aff06622c0dc6f49f2ca670d3f8",
+   "pkgpath": "Data/level0",
+   "size": 8892,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "d77f8f429538b0447fbd80575d586bd3b7f59a66",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "e4e57009d376485574a659412c630d121ad805bc",
+   "pkgpath": "Data/resources.assets",
+   "size": 140736,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6cdc0e4cbe1201c4ca6f1a16e833814ac2bbc3a8",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "84cc4a41fb6a766945b161e0671b6186fa21f4fc",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 712462,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "7b0302aacea5852d18c8a1c7dbfe7bb62423ff63",
+   "pkgpath": "bin/Player.elf",
+   "size": 20710840,
+   "src": "C:/Users/toryn/Downloads/magic-leap/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ce98f55bd1a69514f5a29ead0fd88845fdac15e9",
+   "xfrm_path": "C:/Users/toryn/Downloads/magic-leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.torynfarr.magicleap-efb8980e95c57cb9\\Player.elf-fd7aec27af4e9926",
+   "xfrm_size": 20711598
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/toryn/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "e2adf17a24fc6009e033a38d6c166dedca3b8e46",
+   "xfrm_path": "C:/Users/toryn/Downloads/magic-leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.torynfarr.magicleap-efb8980e95c57cb9\\libc++_shared.so-f7149828ae6fb2ea",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "aead92966e2d53aa7d1c9e650fbcc86d739d44c8",
+   "pkgpath": "manifest.xml",
+   "size": 680,
+   "src": "C:\\Users\\toryn\\Downloads\\magic-leap\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "ea590751f21d4c1515641849c91b7b9cee039fd0",
+     "developer_id": "359434e1-f8a7-4b50-a4b6-38143255c024"
+    }
+   },
+   "xfrm_hash": "0d805df1ead884ec8933394c4f7591ea86b64c05",
+   "xfrm_path": "C:/Users/toryn/Downloads/magic-leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.torynfarr.magicleap-efb8980e95c57cb9\\manifest.xml-fd7aec27af4e9926",
+   "xfrm_size": 692
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\toryn\\Downloads\\cert\\terrace.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

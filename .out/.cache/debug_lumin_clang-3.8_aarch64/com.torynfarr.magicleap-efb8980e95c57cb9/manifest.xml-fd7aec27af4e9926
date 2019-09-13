@@ -1,0 +1,11 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="359434e1-f8a7-4b50-a4b6-38143255c024" ml:package="com.torynfarr.magicleap" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="6" ml:sdk_version="1.0" ml:visible_name="magicleap">
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="magicleap">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="GesturesConfig" />
+    <uses-privilege ml:name="GesturesSubscribe" />
+    <uses-privilege ml:name="HandMesh" />
+  </application>
+</manifest>
