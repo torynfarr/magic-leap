@@ -29,6 +29,7 @@ This sample uses hand tracking and demonstrates one approach to picking up a gam
 - If you spread your fingers apart or if your hand is no longer visible, the sphere will be dropped
 
 - Only one hand can be used at at a time. This is to prevent the free hand from obscuring the keypoints on the hand being used to pinch a sphere.
+<br />
 <img src="https://github.com/torynfarr/magic-leap/blob/master/docs/images/pinchanddrag.gif" width="350">
 <br />
 
