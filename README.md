@@ -15,6 +15,7 @@ This sample uses hand tracking and demonstrates how to detect when the keypoint 
 - Hand Meshing is included to facilitate occlusion. It's optional and not used to detect when an object has been touched.
 
 
+
 <img src="https://github.com/torynfarr/magic-leap/blob/master/docs/images/pinchanddrag.gif" width="350">
 
 ## 02.[Pinch and Drag](https://github.com/torynfarr/magic-leap/tree/master/Samples/02.pinch-and-drag) 
@@ -27,6 +28,7 @@ This sample uses hand tracking and demonstrates one approach to picking up a gam
 - If you spread your fingers apart or if your hand is no longer visible, the sphere will be dropped
 
 - Only one hand can be used at at a time. This is to prevent the free hand from obscuring the keypoints on the hand being used to pinch a sphere.
+
 
 
 ### Additional Information
